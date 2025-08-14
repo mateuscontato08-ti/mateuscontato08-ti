@@ -8,4 +8,4 @@ Sou Analista de Suporte em Telecomunicações, atuando na manutenção, monitora
 - HTML / CSS  
 
 📫 Conecte-se comigo no LinkedIn:  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[LinkedIn]https://www.linkedin.com/in/mateus-barbosa-ti/
